@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Password Guessing Game</title>
+
     <style>
         body {
             font-family: Arial, Helvetica, sans-serif;
@@ -12,12 +13,15 @@
             background-color: #f9f9f9;
             color: #333;
         }
-        h1, h2, h3 {
+
+        h1, h2 {
             color: #2c3e50;
         }
+
         ul {
             margin-left: 20px;
         }
+
         footer {
             margin-top: 40px;
             padding-top: 10px;
@@ -27,6 +31,7 @@
         }
     </style>
 </head>
+
 <body>
 
     <h1>🔐 Password Guessing Game</h1>
@@ -88,10 +93,10 @@
         through practical implementation.
     </p>
 
-    <h2>Author</h2>
+    <footer>
+        Author: <strong>Perumalla Rohith</strong>
+    </footer>
 
-    <p>
-   <strong>Perumalla Rohith</strong>
-    </p>
 </body>
 </html>
+

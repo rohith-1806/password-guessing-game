@@ -43,7 +43,7 @@ loops, conditional statements, string handling, and the random module.
 
 <h2>Author</h2>
 <p>
-<strong>Perumalla Rohith.</strong>
+Perumalla Rohith
 </p>
 
 </body>

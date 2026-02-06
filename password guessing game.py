@@ -1,5 +1,5 @@
 import random
-easy_words = ["apple","train","truck","tiger","money","india","goa","pen"]
+easy_words = ["apple","train","truck","tiger","money","india","goa","pen","bat"]
 medium_words = ["python","battle","mobile","laptop bag","brush",'pillow']
 hard_words = ["bear","elephant","ostrich","girafiee","psycho","mountain","strawberry"]
 

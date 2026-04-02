@@ -1,6 +1,6 @@
 import random
 easy_words = ["apple","train","truck","tiger","money","india","goa","pen","bat","flag"]
-medium_words = ["python","battle","mobile","laptop bag","brush",'pillow']
+medium_words = ["python","battle","mobile","laptop bag","brush",'pillow','iron']
 hard_words = ["bear","elephant","ostrich","girafiee","psycho","mountain","strawberry"]
 
 print("welcome to the password guesssing game")
